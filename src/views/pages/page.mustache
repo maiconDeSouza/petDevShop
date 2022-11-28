@@ -1,0 +1,19 @@
+{{>partials/head}}
+<body>
+{{>partials/header}}
+
+{{>partials/nav}}
+
+{{#banner}}
+    <section class="banner" style="background-image: url('images/{{background}}')">
+        {{title}}
+    </section>
+    <h2>{{title}} disponíveis para adoção</h2>
+{{/banner}}
+
+
+{{>partials/loopAnimals}}
+
+{{>partials/footer}}
+</body>
+</html>
