@@ -1,5 +1,5 @@
 <h1>
-	feed-react-typescript
+	PetDevShop´
 	<img 
 		align="right"
 		width="150"
@@ -10,14 +10,14 @@
 <h2>Sobre o projeto</h2>
 
 <p>
-    Este projeto primeiramente foi feito apenas com reactJS e JAVASCRIPT puro. Nesta versão portei para TypeScript.
+    Projeto Feito com NodeJS + TypeScript + Express JS + Mustache
 </p>
 <p>
-    Com base nas aulas do Ignite da Rocketseat.
+    Projeto do curso B7web para praticar um pouco de NodeJS com Express.
 </p>
 
 <p>
-    Acesse o  <a href="https://feedreactts.maiconsouza.com.br/">Projeto</a> 
+    Acesse o  <a href="https://petdevshopmcn.herokuapp.com/">Projeto</a> 
 </p>
 
 <p>
@@ -31,10 +31,11 @@
 
 <h3>Tecnologias utilizadas</h3>
 
-<h4>Front end</h4>
 <ul>
-	<li>REACT</li>
+	<li>NODEJS</li>
 	<li>TYPESCRIPT</li>
+    <li>EXPRESSJS</li>
+    <li>MUSTACHE</li>
 </ul>
 <hr>
 <h2>Como executar o projeto</h2>
@@ -51,10 +52,6 @@ npm install
 ```
 npm run dev
 ```
-
-<h3>Front end web</h3>
-<p>Pré-requisitos: Um Navegador.</p>
-<p>NodeJS</p>
 
 
 
